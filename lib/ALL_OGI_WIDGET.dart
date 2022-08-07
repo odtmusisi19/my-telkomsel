@@ -11,7 +11,7 @@ class OgiFitBox extends StatelessWidget {
         child: Container(
           color: Colors.blue,
           width: 500,
-          height: 2000,
+          height: 200,
           child: FittedBox(
             alignment: Alignment.centerRight,
             fit: BoxFit.contain,
